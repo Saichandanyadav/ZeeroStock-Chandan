@@ -1,6 +1,13 @@
 # 🛒 Inventory Search Application
 
-A modern, responsive inventory search application built using **Next.js, React, and Tailwind CSS**. This project provides a clean and intuitive UI for browsing products, applying smart filters, and switching between buyer and supplier views.
+A modern, responsive inventory search application built using **Next.js, React, and Tailwind CSS**. This project delivers a clean, fast, and intuitive experience for browsing products, applying smart filters, and switching between buyer and supplier views.
+
+---
+
+## 🌐 Live Demo
+
+🚀 **View Live Application:**
+https://zeerostock-chandan.vercel.app/
 
 ---
 
@@ -21,9 +28,9 @@ A modern, responsive inventory search application built using **Next.js, React, 
 
 ### 📦 Inventory Display
 
-* Clean card-based UI
+* Clean, modern card-based UI
 
-* Displays product details:
+* Displays:
 
   * Product name
   * Category
@@ -40,18 +47,18 @@ A modern, responsive inventory search application built using **Next.js, React, 
 
 * Fully responsive layout
 * Optimized for mobile, tablet, and desktop
-* Grid-based adaptive UI
+* Smooth grid-based UI
 
 ### 📊 Pagination
 
-* Efficient handling of large datasets
+* Handles large datasets efficiently
 * 6 products per page
-* Smooth navigation
+* Smooth navigation between pages
 
 ### 🎨 UI/UX Enhancements
 
 * Modern card design with shadows
-* Smooth hover interactions
+* Smooth hover effects
 * Clean spacing and typography
 * Soft gradient background
 
@@ -94,8 +101,8 @@ src/
 ## ⚙️ Installation & Setup
 
 ```bash
-git clone <your-repo-url>
-cd inventory-app
+git clone https://github.com/saichandanyadav/ZeeroStock-Chandan.git
+cd inventory-search-app-chandan
 npm install
 npm run dev
 ```
@@ -163,10 +170,11 @@ http://localhost:3000
 
 ## 👨‍💻 Developer
 
-**Name:** Sai Chandan Gundaboina
-**Email:** [saichandhanyadav2002@gmail.com](mailto:saichandhanyadav2002@gmail.com)
-**LinkedIn:** https://linkedin.com/in/saichandanyadav
-**GitHub:** https://github.com/saichandanyadav
+**Sai Chandan Gundaboina**
+
+📧 Email: [saichandhanyadav2002@gmail.com](mailto:saichandhanyadav2002@gmail.com)
+🔗 LinkedIn: https://linkedin.com/in/saichandanyadav
+💻 GitHub: https://github.com/saichandanyadav
 
 ---
 
@@ -178,7 +186,5 @@ This project demonstrates strong fundamentals in:
 * Responsive development
 * API integration
 * Component-based architecture
-
-Built to be **clean, scalable, and user-friendly**, making it ideal for assignments and frontend portfolio projects.
 
 ---
